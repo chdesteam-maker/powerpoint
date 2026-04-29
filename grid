@@ -1,0 +1,26 @@
+{
+  "template_name": "layout_text_left_image_right",
+  "dimensions": {
+    "width": 1920,
+    "height": 1080
+  },
+  "padding": {
+    "top": 128,
+    "right": 80,
+    "bottom": 89,
+    "left": 83
+  },
+  "spacing": {
+    "gap_horizontal": 81,
+    "gap_vertical": 70
+  },
+  "grid": {
+    "columns": 2,
+    "rows": 3
+  },
+  "rules": {
+    "content_safety": "strictly_within_padding",
+    "background_usage": "fixed_asset",
+    "alignment": "auto_layout_default"
+  }
+}
